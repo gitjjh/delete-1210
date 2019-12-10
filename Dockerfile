@@ -1,5 +1,5 @@
 FROM  jjhdochub/base-image-detect:latest
-#MAINTAINER  jeon
+#MAINTAINER  jeon.JH
 
 #RUN yum -y update
 #RUN yum -y install epel-release; yum clean all
